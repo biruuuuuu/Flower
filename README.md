@@ -5,7 +5,7 @@
 # Description
 Flower code tiktok trend 
 
-Responsive Web -- bisa langsung disesuikan di file css --> style.css
+Responsive Web - forr youu gombess --> style.css
 
 # Author
 - Flower Code : Md Usman Ansari (@MdUsmanAnsari)
